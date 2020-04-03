@@ -1,0 +1,6 @@
+.aui,.portal-popup,.columns-max,.portlet-layout,.portlet-column,.portlet-boundary,.portlet-body{
+	height: 100% !important;
+}
+.portlet-boundary{
+	overflow: hidden !important;
+}
